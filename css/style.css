@@ -1,0 +1,56 @@
+body,footer{
+  background-color: rgb(196, 196, 196);
+  color: #666666;
+}
+header, div, footer{
+  width: 860px;
+  margin: 50px auto 50px auto;
+}
+header h1,h3{
+  padding-top: 18px;
+  text-align:center;
+}
+#breadcrumb{
+  display: inline;
+}
+#breadcrumb li,#flow li,#salary{
+  list-style-type: none;
+  float: left;
+}
+#contents{
+  padding-top: 80px;
+}
+#qr{
+  margin-bottom: 50px;
+}
+input[type="submit"]{
+  width:120px;
+  height:50px;
+}
+footer address{
+  font-size: 50%;
+  float: center;
+}
+footer {
+	padding-top: 10px;
+}
+footer p {
+	float: none;
+}
+#btn{
+  display: inline-flex;
+}
+#line,#attention p,ul,#flow p,#tardy li,#travel,#dedge,#tardy,#confirm{
+  background-color: rgb(239, 239, 239);
+}
+li,tr{
+  margin-bottom: 50px;
+}
+#line textarea{
+  width: 300px;
+  height: 80px;
+}
+table{
+  border-collapse:collapse;
+  margin: 0 auto 0 auto;
+}
